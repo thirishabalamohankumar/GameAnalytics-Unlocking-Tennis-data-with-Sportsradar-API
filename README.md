@@ -77,8 +77,11 @@ tennis-analytics/
    ```bash
    streamlit run app.py
    ```
-   Check out my project at: 
-https://www.loom.com/share/a5a6c20a2f8840a39af09c89c8a0c940?sid=0cd7b58e-779b-4f28-a1f4-db1317ae927b
+
+https://github.com/user-attachments/assets/0420a258-eaea-4764-a1cc-fbb55e093606
+
+
+
 ## 📸 Screenshots
 
 *(Add some screenshots of your dashboard here for better presentation)*
